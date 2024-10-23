@@ -1,0 +1,1 @@
+<DataModel xmlns="http://schemas.datacontract.org/2004/07/Lab02.Model" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Bookings/><Guests><Guest><Booking i:nil="true"/><Name/><Surname/></Guest></Guests><Hotels><Hotel><Id>0</Id><Name>Lviv Hotel</Name><Rating>0</Rating><Type>Business</Type></Hotel></Hotels></DataModel>

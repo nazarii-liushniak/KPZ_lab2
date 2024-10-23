@@ -1,0 +1,12 @@
+C:\Users\im_luft\Desktop\KPZ\Labs\Lab02\Lab02.Model\bin\Debug\net8.0-windows\Lab02.Model.deps.json
+C:\Users\im_luft\Desktop\KPZ\Labs\Lab02\Lab02.Model\bin\Debug\net8.0-windows\Lab02.Model.dll
+C:\Users\im_luft\Desktop\KPZ\Labs\Lab02\Lab02.Model\bin\Debug\net8.0-windows\Lab02.Model.pdb
+C:\Users\im_luft\Desktop\KPZ\Labs\Lab02\Lab02.Model\obj\Debug\net8.0-windows\Lab02.Model.csproj.AssemblyReference.cache
+C:\Users\im_luft\Desktop\KPZ\Labs\Lab02\Lab02.Model\obj\Debug\net8.0-windows\Lab02.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\im_luft\Desktop\KPZ\Labs\Lab02\Lab02.Model\obj\Debug\net8.0-windows\Lab02.Model.AssemblyInfoInputs.cache
+C:\Users\im_luft\Desktop\KPZ\Labs\Lab02\Lab02.Model\obj\Debug\net8.0-windows\Lab02.Model.AssemblyInfo.cs
+C:\Users\im_luft\Desktop\KPZ\Labs\Lab02\Lab02.Model\obj\Debug\net8.0-windows\Lab02.Model.csproj.CoreCompileInputs.cache
+C:\Users\im_luft\Desktop\KPZ\Labs\Lab02\Lab02.Model\obj\Debug\net8.0-windows\Lab02.Model.dll
+C:\Users\im_luft\Desktop\KPZ\Labs\Lab02\Lab02.Model\obj\Debug\net8.0-windows\refint\Lab02.Model.dll
+C:\Users\im_luft\Desktop\KPZ\Labs\Lab02\Lab02.Model\obj\Debug\net8.0-windows\Lab02.Model.pdb
+C:\Users\im_luft\Desktop\KPZ\Labs\Lab02\Lab02.Model\obj\Debug\net8.0-windows\ref\Lab02.Model.dll
